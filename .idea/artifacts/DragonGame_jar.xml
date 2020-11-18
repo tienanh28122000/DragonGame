@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DragonGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DragonGame_jar</output-path>
+    <root id="archive" name="DragonGame.jar">
+      <element id="module-output" name="DragonGame" />
+    </root>
+  </artifact>
+</component>
